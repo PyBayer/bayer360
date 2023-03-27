@@ -1,7 +1,6 @@
 {
- "display": "fullscreen",
- "start_url": "index.htm",
  "theme_color": "#FFFFFF",
+ "display": "fullscreen",
  "name": "Bayer 360 - Feria Innovar",
  "icons": [
   {
@@ -41,5 +40,6 @@
   }
  ],
  "background_color": "#FFFFFF",
- "description": "Experiencia virtual de la tecnología Bayer"
+ "description": "Experiencia virtual de la tecnología Bayer",
+ "start_url": "index.htm"
 }
